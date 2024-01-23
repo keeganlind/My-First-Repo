@@ -1,0 +1,45 @@
+nav {
+    background-color: gray;
+}
+.inline-block{
+    display: inline-block;
+    padding: 1%;
+    padding-bottom: 3%;
+    background-color: black;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    color: white;
+}
+.bodyleft {
+    width: 29%;
+    height: 800px;
+    float: left;
+    background-color: lightblue;
+    color: white;
+}
+.nameandpic {
+    text-align: center;
+}
+img.nameandpic {
+    width: auto;
+    height: auto;
+    padding: 1%;
+}
+img.bodyright {
+    display: inline;
+    width: 100 px;
+    height: 200px;
+    padding: 15px;
+    float: left;
+}
+.bodyright {
+    width: 70%;
+    height: 800px;
+    background-color: plum;
+    float: left;
+
+}
+p {
+    font-size: 16px;
+}
