@@ -16,7 +16,7 @@ nav {
     height: 800px;
     float: left;
     background-color: lightblue;
-    color: white;
+    color: black;
 }
 .nameandpic {
     text-align: center;
@@ -26,11 +26,9 @@ img.nameandpic {
     height: auto;
     padding: 1%;
 }
-img.bodyright {
-    display: inline;
-    width: 100 px;
+img.header {
+    width: 200px;
     height: 200px;
-    padding: 15px;
     float: left;
 }
 .bodyright {
